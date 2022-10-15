@@ -193,3 +193,8 @@ BOT_
 
 
 "second try lol"
+
+#git add .
+#git commit -m "#thing here"
+#git push
+#git status  //check on stat of file to be pushed
